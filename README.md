@@ -1,22 +1,76 @@
-## Hi there gnaneshwer23/gnaneshwer23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Dr. Gnaneshwer Jadav
 
-Here are some ideas to get you started:
+I’m a **Product & Project Leader** working at the intersection of **HealthTech, EdTech, and AI‑enabled platforms**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://github-readme-stats.vercel.app/api?username=gnaneshwer23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gnaneshwer23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaneshwer23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My background spans **biology, pharmacy, biotechnology, and immunology (PhD)**, combined with hands‑on experience building **0→1 and scaled digital products** in **regulated environments**. I focus on turning complex clinical, research, and learning problems into **shipped products that create real‑world impact**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gnaneshwer23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔍 What I Work On
+
+- **HealthTech platforms**
+  - Regulated healthcare systems
+  - Clinical and operational workflows
+  - Interoperability (FHIR / HL7)
+  - AI‑assisted decision support
+
+- **Research & life sciences products**
+  - Research intelligence and workflow tools
+  - Clinical trials and observational data platforms
+  - Responsible use of AI in scientific contexts
+
+- **EdTech platforms**
+  - Simulation‑based learning
+  - Career‑readiness and skill‑development systems
+  - Rapid MVP validation and iteration
+
+- **AI‑enabled product development**
+  - LLM‑assisted workflows and agent‑supported tools
+  - Human‑in‑the‑loop systems
+  - Practical, responsible application of AI in production products
+
+---
+
+## 🧠 How I Use AI
+
+I use AI daily as a **product‑building accelerator**, not a buzzword:
+
+- Synthesising user interviews and research
+- Drafting and refining specs, PRDs, and decision docs
+- Prototyping workflows with tools like **ChatGPT, Claude, Mistral, Claude Code**
+- Exploring agent‑based patterns and AI‑assisted automation
+- Speeding up discovery, prioritisation, and iteration cycles
+
+---
+
+## 🛠️ Tools & Ways of Working
+
+- **Product & Delivery:** Jira, Confluence, Miro, Monday, Notion  
+- **Analytics:** Amplitude, Mixpanel  
+- **AI Tooling:** ChatGPT, Claude, Mistral, Claude Code, custom AI agents  
+- **Approach:** Outcome‑driven, async‑friendly, experiment → learn → iterate
+
+---
+
+## 📌 What You’ll Find Here
+
+This GitHub is a place to:
+- Share **prototypes, experiments, and demos**
+- Document **thinking around product, AI, and systems**
+- Explore ideas at the intersection of **healthcare, research, education, and technology**
+
+Some repositories are exploratory by design — they reflect **learning in public**, not polished final products.
+
+---
+
+## 🌍 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/gnaneshwer-jadav-healthcare/
+- **Portfolio:** https://drgnsneshwerjadav.vercel.app/
+
+If you’re interested in **product leadership, AI‑enabled systems, or building meaningful technology in regulated domains**, feel free to reach out.
+
+---
+
+> *I’m less interested in hype and more interested in building things that actually work.*
+``
