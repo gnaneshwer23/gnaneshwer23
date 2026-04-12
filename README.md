@@ -1,12 +1,10 @@
-# 👋 Hi, I’m Dr. Gnaneshwer Jadav
+👋 Hi, I’m Dr. Gnaneshwer Jadav
 
 I’m a **Product & Project Leader** working at the intersection of **HealthTech, EdTech, and AI‑enabled platforms**.
 
 My background spans **biology, pharmacy, biotechnology, and immunology (PhD)**, combined with hands‑on experience building **0→1 and scaled digital products** in **regulated environments**. I focus on turning complex clinical, research, and learning problems into **shipped products that create real‑world impact**.
 
----
-
-## 🔍 What I Work On
+What I Work On
 
 - **HealthTech platforms**
   - Regulated healthcare systems
@@ -29,9 +27,7 @@ My background spans **biology, pharmacy, biotechnology, and immunology (PhD)**, 
   - Human‑in‑the‑loop systems
   - Practical, responsible application of AI in production products
 
----
-
-## 🧠 How I Use AI
+How I Use AI
 
 I use AI daily as a **product‑building accelerator**, not a buzzword:
 
@@ -41,18 +37,14 @@ I use AI daily as a **product‑building accelerator**, not a buzzword:
 - Exploring agent‑based patterns and AI‑assisted automation
 - Speeding up discovery, prioritisation, and iteration cycles
 
----
-
-## 🛠️ Tools & Ways of Working
+Tools & Ways of Working
 
 - **Product & Delivery:** Jira, Confluence, Miro, Monday, Notion  
 - **Analytics:** Amplitude, Mixpanel  
 - **AI Tooling:** ChatGPT, Claude, Mistral, Claude Code, custom AI agents  
 - **Approach:** Outcome‑driven, async‑friendly, experiment → learn → iterate
 
----
-
-## 📌 What You’ll Find Here
+ What You’ll Find Here
 
 This GitHub is a place to:
 - Share **prototypes, experiments, and demos**
@@ -61,16 +53,12 @@ This GitHub is a place to:
 
 Some repositories are exploratory by design — they reflect **learning in public**, not polished final products.
 
----
-
-## 🌍 Connect
+Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/gnaneshwer-jadav-healthcare/
 - **Portfolio:** https://drgnsneshwerjadav.vercel.app/
 
 If you’re interested in **product leadership, AI‑enabled systems, or building meaningful technology in regulated domains**, feel free to reach out.
-
----
 
 > *I’m less interested in hype and more interested in building things that actually work.*
 ``
