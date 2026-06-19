@@ -56,7 +56,7 @@ Some repositories are exploratory by design — they reflect **learning in publi
 Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/gnaneshwer-jadav-healthcare/
-- **Portfolio:** https://drgnsneshwerjadav.vercel.app/
+- **Portfolio:** https://gnaneshwerjadav.com/
 
 If you’re interested in **product leadership, AI‑enabled systems, or building meaningful technology in regulated domains**, feel free to reach out.
 
